@@ -99,7 +99,6 @@ def print_summary(synced_count: int, not_found_count: int, failed_count: int):
         "[link=https://myanimelist.net/animelist]https://myanimelist.net/animelist[/link]\n"
     )
 
-
 def make_progress_bar() -> Progress:
     return Progress(
         SpinnerColumn(style="bright_magenta"),
