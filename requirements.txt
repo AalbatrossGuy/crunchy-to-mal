@@ -1,0 +1,5 @@
+playwright>=1.43.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+rapidfuzz>=3.9.0
+rich>=13.7.0
