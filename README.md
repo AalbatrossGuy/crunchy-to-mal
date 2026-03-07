@@ -1,8 +1,7 @@
 # crunchyroll-to-mal
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache-green)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a3497045ade4781b462c827c9f20870)](https://app.codacy.com/gh/AalbatrossGuy/crunchy-to-mal/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)
